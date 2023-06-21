@@ -1,4 +1,4 @@
-## Live at @https://my-fitness-pal-mern-akm6.vercel.app
+## Live at @https://my-fitness-pal-phi.vercel.app/
 
 
 #   A Fitness Website(MYFitnessPal) 💪
